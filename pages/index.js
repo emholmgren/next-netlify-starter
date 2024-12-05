@@ -13,6 +13,7 @@ export default function Home() {
       <main>
         <Header title="Välkommen till Kläder efter väder" />
         <p className="description">
+          We're just trying this out! :)
           Web app under construction ...
         </p>
       </main>
