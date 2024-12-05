@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Test Project</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Trying out Netlify!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Web app under construction ...
         </p>
       </main>
 
